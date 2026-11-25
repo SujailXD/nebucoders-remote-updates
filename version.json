@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apk": "NebuCoders-Remote-1.8.apk",
-  "sha256": "0122f587e1e6868d0afdb7caddf54c6e90003d5e315887cb5c390c3367e63ea7",
-  "notes": "Adds in-app updates."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apk": "NebuCoders-Remote-1.9.apk",
+  "sha256": "dfd553c65c7aae993251318809fa4c0e3edb6c2ac43e9aa4ab0d6f70acdfe28b",
+  "notes": "New opening animation, Options with joystick, lock and auto-stop, and smoother controls."
 }
