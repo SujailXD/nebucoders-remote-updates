@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apk": "NebuCoders-Remote-1.9.apk",
-  "sha256": "dfd553c65c7aae993251318809fa4c0e3edb6c2ac43e9aa4ab0d6f70acdfe28b",
-  "notes": "New opening animation, Options with joystick, lock and auto-stop, and smoother controls."
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apk": "NebuCoders-Remote-1.10.apk",
+  "sha256": "20dd6dc4ce36d68fd249fa20f867d76d06372a2de68f78aed253c493571d1c32",
+  "notes": "Tap the NebuCoders logo to open nebucoders.org. Links now show a tap effect."
 }
