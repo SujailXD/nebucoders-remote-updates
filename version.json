@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apk": "NebuCoders-Remote-1.10.apk",
-  "sha256": "20dd6dc4ce36d68fd249fa20f867d76d06372a2de68f78aed253c493571d1c32",
-  "notes": "Tap the NebuCoders logo to open nebucoders.org. Links now show a tap effect."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apk": "NebuCoders-Remote-1.11.apk",
+  "sha256": "6a8de2abd04967f4af373bd51bff85607f7dc7f50b924d82f2fd86696ea55324",
+  "notes": "More reliable updates, and a new Check for updates button in Options."
 }
